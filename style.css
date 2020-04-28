@@ -1,0 +1,22 @@
+*{
+    margin: 0px ;
+    padding: 0px;
+
+}
+.header-strip {
+    color: white;
+    background-color: #316dc3;
+    padding-top: 10px;
+}
+.social-icons{
+    display: flex;
+    padding: 10px 10px 0px 30px;
+    /* justify-content: space-between; */
+  
+
+}
+.social-icons img{
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+}
